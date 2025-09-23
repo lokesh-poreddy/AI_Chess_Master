@@ -141,7 +141,6 @@ Open `http://localhost:3000` in your browser 🎉
 - Add perft tests and move-gen validation
 - Add keyboard shortcuts and accessibility improvements
 - Enable PWA installability and offline play
-- Deploy preview via Vercel
 
 ---
 
